@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Adds all available sherd patterns to the Stonecutter!",
+    "min_format": 88
+  }
+}
